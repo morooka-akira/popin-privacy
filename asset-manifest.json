@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/popin-pages/static/css/main.d1b05096.chunk.css",
-    "main.js": "/popin-pages/static/js/main.bb5f2f76.chunk.js",
-    "main.js.map": "/popin-pages/static/js/main.bb5f2f76.chunk.js.map",
-    "runtime-main.js": "/popin-pages/static/js/runtime-main.81bd22a4.js",
-    "runtime-main.js.map": "/popin-pages/static/js/runtime-main.81bd22a4.js.map",
-    "static/js/2.de341175.chunk.js": "/popin-pages/static/js/2.de341175.chunk.js",
-    "static/js/2.de341175.chunk.js.map": "/popin-pages/static/js/2.de341175.chunk.js.map",
-    "index.html": "/popin-pages/index.html",
-    "precache-manifest.588551cb31e58d53e11e95ab4e4da93a.js": "/popin-pages/precache-manifest.588551cb31e58d53e11e95ab4e4da93a.js",
-    "service-worker.js": "/popin-pages/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/popin-pages/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.de341175.chunk.js.LICENSE": "/popin-pages/static/js/2.de341175.chunk.js.LICENSE",
-    "static/media/logo.svg": "/popin-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/popin-privacy/static/css/main.b0c78e16.chunk.css",
+    "main.js": "/popin-privacy/static/js/main.4d0dc71c.chunk.js",
+    "main.js.map": "/popin-privacy/static/js/main.4d0dc71c.chunk.js.map",
+    "runtime-main.js": "/popin-privacy/static/js/runtime-main.83306dc7.js",
+    "runtime-main.js.map": "/popin-privacy/static/js/runtime-main.83306dc7.js.map",
+    "static/js/2.c0ad7b72.chunk.js": "/popin-privacy/static/js/2.c0ad7b72.chunk.js",
+    "static/js/2.c0ad7b72.chunk.js.map": "/popin-privacy/static/js/2.c0ad7b72.chunk.js.map",
+    "index.html": "/popin-privacy/index.html",
+    "precache-manifest.30a74b1b101bd4424d36388dc2cfbaef.js": "/popin-privacy/precache-manifest.30a74b1b101bd4424d36388dc2cfbaef.js",
+    "service-worker.js": "/popin-privacy/service-worker.js",
+    "static/css/main.b0c78e16.chunk.css.map": "/popin-privacy/static/css/main.b0c78e16.chunk.css.map",
+    "static/js/2.c0ad7b72.chunk.js.LICENSE": "/popin-privacy/static/js/2.c0ad7b72.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.81bd22a4.js",
-    "static/js/2.de341175.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.bb5f2f76.chunk.js"
+    "static/js/runtime-main.83306dc7.js",
+    "static/js/2.c0ad7b72.chunk.js",
+    "static/css/main.b0c78e16.chunk.css",
+    "static/js/main.4d0dc71c.chunk.js"
   ]
 }
